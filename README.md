@@ -10,11 +10,8 @@ Webpage of a cupcake shop selection and prices with a link back to itself, style
 
 ## Setup/Installation Requirements
 
-* 
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* clone repository
+* open index.html with browser
 
 ## Technologies Used
 
