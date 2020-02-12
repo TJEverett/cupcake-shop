@@ -1,0 +1,39 @@
+h1{
+  color: unset;
+  font-size: 300%;
+}
+
+h2{
+  color: unset;
+  font-size: 200%;
+}
+
+h4{
+  color: unset;
+  text-transform: uppercase;
+}
+
+ul{
+  color: unset;
+}
+
+li{
+  color: unset;
+}
+
+p{
+  color: unset;
+}
+
+body{
+  color: unset;
+}
+
+.best{
+  color: chocolate;
+}
+
+.flashy{
+  color: red;
+  font-style: italic;
+}
