@@ -1,32 +1,30 @@
+@media screen and (min-width: 700px) and (max-width:1000px) {
+  body{
+    color: white;
+    background-color: black;
+  }
+  
+  li.best{
+    color: saddlebrown;
+  }
+}
+
+@media screen and (min-width: 300px) and (max-width: 480px) {
+  body{
+    font-size: 75%;
+  }
+}
+
 h1{
-  color: unset;
   font-size: 300%;
 }
 
 h2{
-  color: unset;
   font-size: 200%;
 }
 
 h4{
-  color: unset;
   text-transform: uppercase;
-}
-
-ul{
-  color: unset;
-}
-
-li{
-  color: unset;
-}
-
-p{
-  color: unset;
-}
-
-body{
-  color: unset;
 }
 
 .best{
